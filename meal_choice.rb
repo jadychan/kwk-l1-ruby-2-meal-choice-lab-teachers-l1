@@ -8,11 +8,11 @@ def breakfast(food="Frosted Flakes")
   "Breakfast: #{food}"
 end
 
-def lunch(food="Eggs")
+def lunch(food="grilled cheese")
   "Breakfast: #{food}"
 end
 
-def dinner(food="Eggs")
+def dinner(food="salmon")
   "Breakfast: #{food}"
 end
 # Call the methods with puts and your own arguments here. Like this:
